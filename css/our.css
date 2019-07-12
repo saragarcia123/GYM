@@ -1,0 +1,39 @@
+.color1{
+	background: #656565;
+}
+.l{
+	display: flex;
+	align-items: center;
+	background: #1C1C1C;
+	color:#fff;
+}
+.colorl{
+	background:#E62026;
+	color:#fff;
+	height:100%;
+ 
+}
+h4{
+	color:#E62026;
+}
+a{
+	color:#fff;
+}
+.color5{
+	background: #191414;
+
+}
+.texto{
+	color:#7D7B7B;
+}
+.n{
+	
+	color:#fff;
+}
+.img{
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 300px;
+	height: 200px;
+
+}
